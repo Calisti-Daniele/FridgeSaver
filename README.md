@@ -78,7 +78,7 @@ Il testing viene condotto in parallelo allo sviluppo, verificando ogni component
 ## 👥 Autori
 
 - **Daniele Calisti** — [@Calisti-Daniele](https://github.com/Calisti-Daniele)
-- **Silvio Grieco** — [@Calisti-Daniele](https://github.com/Calisti-Daniele)
+- **Silvio Grieco** — [@silviogrieco](https://github.com/silviogrieco)
 
 ---
 
